@@ -12,8 +12,8 @@ spring:
   mail:
     host: smtp.qq.com
     port: 587
-    username: 3232887943@qq.com
-    password: zwedpbogefkzdbbh
+    username: 邮箱地址
+    password: 邮箱对应密钥
     default-encoding: utf-8
 #    配置个人qq账号和密码
 mybatis-plus:
