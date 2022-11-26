@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9411c44e-33ab-4a4f-9892-41654eadd8a8" name="Changes" comment="修改yml配置文件密码" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.8.3\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2GvsCcfIcdfRJgBSbXOHHeW56KT" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/Git/reggie01",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "spring.configuration.checksum": "e0388cecb813d98d1a87e6e62f96dacd",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\SpringBoot\reggie_take_out\src\main\java\com\f1ee\reggie\entity" />
+      <recent name="D:\Java\SpringBoot\reggie_take_out\src\main\java\com\f1ee\reggie\controller" />
+      <recent name="D:\Java\SpringBoot\reggie_take_out\src\main\resources" />
+      <recent name="D:\Java\SpringBoot\reggie_take_out\src\main\java\com\f1ee\reggie\utils" />
+      <recent name="D:\Java\SpringBoot\reggie_take_out\src\main\java\com\f1ee\reggie\dto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\Git\reggie01\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ReggieApplication">
+    <configuration name="ReggieApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reggie01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f1ee.reggie.ReggieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.f1ee.reggie.ReggieApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.f1ee.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9411c44e-33ab-4a4f-9892-41654eadd8a8" name="Changes" comment="2022/11/11 首次提交" />
+      <created>1667280268254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667280268254</updated>
+      <workItem from="1667280270604" duration="4249000" />
+      <workItem from="1667363612879" duration="686000" />
+      <workItem from="1667364318435" duration="136000" />
+      <workItem from="1667364482027" duration="4936000" />
+      <workItem from="1667369501639" duration="2437000" />
+      <workItem from="1667448689121" duration="15954000" />
+      <workItem from="1667465046682" duration="4783000" />
+      <workItem from="1667470930812" duration="276000" />
+      <workItem from="1667471286718" duration="6221000" />
+      <workItem from="1667534528866" duration="6633000" />
+      <workItem from="1667542412859" duration="2196000" />
+      <workItem from="1667621252279" duration="11400000" />
+      <workItem from="1667706825872" duration="15908000" />
+      <workItem from="1667800152726" duration="9469000" />
+      <workItem from="1667882869311" duration="6165000" />
+      <workItem from="1667972390197" duration="8754000" />
+      <workItem from="1668057144807" duration="621000" />
+      <workItem from="1668057782773" duration="431000" />
+      <workItem from="1668058231802" duration="1773000" />
+      <workItem from="1668060167980" duration="23285000" />
+      <workItem from="1668134288666" duration="2537000" />
+      <workItem from="1668136957438" duration="40000" />
+      <workItem from="1668137009833" duration="9000" />
+      <workItem from="1668137097721" duration="42000" />
+      <workItem from="1668137154691" duration="29000" />
+      <workItem from="1668137440685" duration="436000" />
+      <workItem from="1669011129781" duration="1117000" />
+      <workItem from="1669443745719" duration="321000" />
+    </task>
+    <task id="LOCAL-00001" summary="2022/11/11 首次提交">
+      <created>1668138179691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668138179691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改yml配置文件密码">
+      <created>1669011191399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669011191399</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改yml配置文件密码">
+      <created>1669011281599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669011281599</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改yml配置文件密码">
+      <created>1669011381229</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669011381229</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改yml配置文件密码">
+      <created>1669011657833</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669011657833</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改yml配置文件密码">
+      <created>1669011753799</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669011753799</updated>
+    </task>
+    <task id="LOCAL-00007" summary="修改yml配置文件密码">
+      <created>1669012089225</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669012089225</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2022/11/11 首次提交" />
+    <MESSAGE value="修改yml配置文件密码" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改yml配置文件密码" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.f1ee.reggie.controller.EmployeeController" memberName="employeeService" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="updateWrapper" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
