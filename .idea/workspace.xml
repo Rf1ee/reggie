@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9411c44e-33ab-4a4f-9892-41654eadd8a8" name="Changes" comment="修改yml配置文件密码" />
+    <list default="true" id="9411c44e-33ab-4a4f-9892-41654eadd8a8" name="Changes" comment="修改.gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +140,7 @@
       <workItem from="1668137154691" duration="29000" />
       <workItem from="1668137440685" duration="436000" />
       <workItem from="1669011129781" duration="1117000" />
-      <workItem from="1669443745719" duration="321000" />
+      <workItem from="1669443745719" duration="646000" />
     </task>
     <task id="LOCAL-00001" summary="2022/11/11 首次提交">
       <created>1668138179691</created>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669012089225</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改.gitignore">
+      <created>1669444324647</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669444324647</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +218,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2022/11/11 首次提交" />
     <MESSAGE value="修改yml配置文件密码" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改yml配置文件密码" />
+    <MESSAGE value="修改.gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改.gitignore" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
