@@ -15,6 +15,14 @@ spring:
     username: 3232887943@qq.com
     password: zwedpbogefkzdbbh
     default-encoding: utf-8
+  redis:
+    host: localhost
+    password: 12345
+    port: 6379
+    database: 0
+  cache:
+    redis:
+      time-to-live: 1800000
 #    配置个人qq账号和密码
 mybatis-plus:
   configuration:
@@ -26,5 +34,4 @@ mybatis-plus:
       id-type: ASSIGN_ID
 reggie:
   path: D:\img\
-
 
